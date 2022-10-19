@@ -1,0 +1,35 @@
+.navbar {
+  position: fixed !important;
+  z-index: 2 !important;
+  background-color: aliceblue !important;
+}
+
+.search-btn {
+  color: white !important;
+  background-color: #26c6da !important;
+}
+
+.add-btn {
+  color: white !important;
+  background-color: #2196f3 !important;
+}
+
+.btn-large {
+  width: 45vw !important;
+  margin-left: 2.5vw !important;
+  margin-right: 2.5vw !important;
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
+
+.modal {
+  max-height: 100%;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-container {
+  width: 400px;
+}

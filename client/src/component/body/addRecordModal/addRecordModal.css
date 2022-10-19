@@ -1,0 +1,28 @@
+.paper {
+  width: 400px;
+  background-color: #fff;
+  box-shadow: 5px;
+  padding: 32px;
+  outline: "none";
+}
+
+.textfield {
+  width: 100%;
+}
+
+.add-button {
+  margin-top: 20px !important;
+  width: 100%;
+}
+
+.true {
+  color: #44aa66;
+}
+
+.false {
+  color: #ff0000;
+}
+
+.radio-group {
+  display: "flex";
+}

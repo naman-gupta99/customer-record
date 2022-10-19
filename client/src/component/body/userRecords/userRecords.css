@@ -1,0 +1,41 @@
+.record-container {
+  margin-bottom: 80px;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  width: 90vw;
+  background-color: #fff;
+  box-shadow: 5px;
+  outline: "none";
+}
+
+.date-cell {
+  width: 22%;
+}
+
+.amount-cell {
+  width: 33%;
+}
+
+.comment-cell {
+  width: 40%;
+}
+
+.negitive {
+  background-color: #ffcdd2;
+}
+
+.positive {
+  background-color: #ccff90;
+}
+
+.total-amount-div {
+  margin-left: 5vw;
+  margin-right: 5vw;
+  text-align: right;
+  color: #fff;
+  font-size: 30px;
+}
+
+.total-amount {
+  font-weight: 700;
+}

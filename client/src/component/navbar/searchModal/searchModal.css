@@ -1,0 +1,35 @@
+.paper {
+  width: 400px;
+  background-color: #fff;
+  box-shadow: 5px;
+  padding: 32px;
+  outline: "none";
+}
+
+.textfield {
+  width: 100%;
+}
+
+.search-button {
+  margin-top: 20px !important;
+  width: 100%;
+}
+
+.list-container {
+  box-shadow: 3px 3px 4px #999;
+  padding: 10px;
+  margin: 10px;
+  background-color: #e3f2fd;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.true {
+  color: #44aa66;
+}
+
+.false {
+  color: #ff0000;
+}
